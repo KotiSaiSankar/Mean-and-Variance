@@ -49,7 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-Developed By : Koti sai Sankar
+Developed By : Koti Sai Sankar
 Reg Number: 212222240111
 
 
